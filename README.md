@@ -1,3 +1,3 @@
-## The Morphium
+# The Morphium
 
-# Outpost to the World of Cardano
+## Outpost to the World of Cardano
